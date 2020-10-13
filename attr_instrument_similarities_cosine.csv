@@ -1,0 +1,574 @@
+,investment title,surrounding sentence,ontology attribute,similar pair,cosine
+0,Corporate Bonds,in return the company make a legal commitment to pay interest on the principal and in most case to return the principal when the bond come due or mature,expect return,return,0.5
+1,Corporate Bonds,in return the company make a legal commitment to pay interest on the principal and in most case to return the principal when the bond come due or mature,expect return,return,0.5
+2,Corporate Bonds,like all investment bond carry risk,risk,risk,1.0
+3,Corporate Bonds,like all investment bond carry risk,risk,carry risk,0.5
+4,Corporate Bonds,one key risk to a bondholder be that the company may fail to make timely payment of interest or principal,risk,risk,1.0
+5,Corporate Bonds,one key risk to a bondholder be that the company may fail to make timely payment of interest or principal,risk,key risk,0.5
+6,Corporate Bonds,one key risk to a bondholder be that the company may fail to make timely payment of interest or principal,risk,risk to,0.5
+7,Corporate Bonds,this default risk make the creditworthiness of the company—that be its ability to pay its debt obligation on time—an important concern to bondholder,risk,risk,1.0
+8,Corporate Bonds,this default risk make the creditworthiness of the company—that be its ability to pay its debt obligation on time—an important concern to bondholder,risk,default risk,0.5
+9,Corporate Bonds,this default risk make the creditworthiness of the company—that be its ability to pay its debt obligation on time—an important concern to bondholder,risk,risk make,0.5
+10,Corporate Bonds,company use the proceed from bond sale for a wide variety of purpose include buy new equipment invest in research and development buy back they own stock pay shareholder dividend refinancing debt and financing merger and acquisition,form financing,financing,0.5
+11,Corporate Bonds,longer term bond usually offer higher interest rate but may entail additional risk,risk,risk,1.0
+12,Corporate Bonds,longer term bond usually offer higher interest rate but may entail additional risk,risk,additional risk,0.5
+13,Corporate Bonds,credit rating agency assign credit rating base on they evaluation of the risk that the company may default on its bond,risk,risk,1.0
+14,Corporate Bonds,credit rating agency assign credit rating base on they evaluation of the risk that the company may default on its bond,risk,the risk,0.5
+15,Corporate Bonds,credit rating agency assign credit rating base on they evaluation of the risk that the company may default on its bond,risk,risk that,0.5
+16,Corporate Bonds,investment grade bond be consider more likely than non-investment grade bond to be pay on time,time,time,1.0
+17,Corporate Bonds,investment grade bond be consider more likely than non-investment grade bond to be pay on time,time,on time,0.5
+18,Corporate Bonds,non-investment grade bond which be also call high yield or speculative bond generally offer higher interest rate to compensate investor for greater risk,risk,risk,1.0
+19,Corporate Bonds,non-investment grade bond which be also call high yield or speculative bond generally offer higher interest rate to compensate investor for greater risk,risk,greater risk,0.5
+20,Corporate Bonds,what be high yield corporate bond investor bulletin interest rate risk msrb investor guide 2012,risk,risk,1.0
+21,Corporate Bonds,what be high yield corporate bond investor bulletin interest rate risk msrb investor guide 2012,risk,rate risk,0.5
+22,Corporate Bonds,what be high yield corporate bond investor bulletin interest rate risk msrb investor guide 2012,risk,risk msrb,0.5
+23,Municipal Bonds,by purchase municipal bond you be in effect lend money to the bond issuer in exchange for a promise of regular interest payment usually semi-annually and the return of the original investment or principal,expect return,return,0.5
+24,Municipal Bonds,bond investor typically seek a steady stream of income payment and compare to stock investor may be more risk averse and more focus on preserve rather than increase wealth,risk,risk,1.0
+25,Municipal Bonds,bond investor typically seek a steady stream of income payment and compare to stock investor may be more risk averse and more focus on preserve rather than increase wealth,risk,more risk,0.5
+26,Municipal Bonds,bond investor typically seek a steady stream of income payment and compare to stock investor may be more risk averse and more focus on preserve rather than increase wealth,risk,risk averse,0.5
+27,Municipal Bonds,disclosure document go back as early as 1990 include a bond 's official statement which be a disclosure document similar to a prospectus that include important characteristic such as type yield maturity credit quality call feature and risk factor as well as audit financial statement material event notice and other continue disclosure include rating change principal and interest payment delinquency and non-payment related default,risk,risk,1.0
+28,Municipal Bonds,disclosure document go back as early as 1990 include a bond 's official statement which be a disclosure document similar to a prospectus that include important characteristic such as type yield maturity credit quality call feature and risk factor as well as audit financial statement material event notice and other continue disclosure include rating change principal and interest payment delinquency and non-payment related default,risk,and risk,0.5
+29,Municipal Bonds,disclosure document go back as early as 1990 include a bond 's official statement which be a disclosure document similar to a prospectus that include important characteristic such as type yield maturity credit quality call feature and risk factor as well as audit financial statement material event notice and other continue disclosure include rating change principal and interest payment delinquency and non-payment related default,risk,risk factor,0.5
+30,Municipal Bonds,1 historical and real time transaction price data include information relate to a type of municipal bond call a variable rate demand obligation that reset its interest rate periodically,time,time,1.0
+31,Municipal Bonds,1 historical and real time transaction price data include information relate to a type of municipal bond call a variable rate demand obligation that reset its interest rate periodically,time,real time,0.5
+32,Municipal Bonds,1 historical and real time transaction price data include information relate to a type of municipal bond call a variable rate demand obligation that reset its interest rate periodically,time,time transaction,0.5
+33,Municipal Bonds,2 what be some of the risk of invest in municipal bond,risk,risk,1.0
+34,Municipal Bonds,2 what be some of the risk of invest in municipal bond,risk,the risk,0.5
+35,Municipal Bonds,2 what be some of the risk of invest in municipal bond,risk,risk of,0.5
+36,Municipal Bonds,as with any investment invest in municipal bond entail risk,risk,risk,1.0
+37,Municipal Bonds,as with any investment invest in municipal bond entail risk,risk,entail risk,0.5
+38,Municipal Bonds,investor in municipal bond face a number of risk specifically include,risk,risk,1.0
+39,Municipal Bonds,investor in municipal bond face a number of risk specifically include,risk,of risk,0.5
+40,Municipal Bonds,investor in municipal bond face a number of risk specifically include,risk,risk specifically,0.5
+41,Municipal Bonds,call risk,risk,risk,1.0
+42,Municipal Bonds,call risk,risk,call risk,0.5
+43,Municipal Bonds,call risk refer to the potential for a issuer to repay a bond before its maturity date something that a issuer may do if interest rate decline much as a homeowner might refinance a mortgage loan to benefit from lower interest rate,risk,risk,1.0
+44,Municipal Bonds,call risk refer to the potential for a issuer to repay a bond before its maturity date something that a issuer may do if interest rate decline much as a homeowner might refinance a mortgage loan to benefit from lower interest rate,risk,call risk,0.5
+45,Municipal Bonds,call risk refer to the potential for a issuer to repay a bond before its maturity date something that a issuer may do if interest rate decline much as a homeowner might refinance a mortgage loan to benefit from lower interest rate,risk,risk refer,0.5
+46,Municipal Bonds,credit risk,risk,risk,1.0
+47,Municipal Bonds,credit risk,risk,credit risk,0.5
+48,Municipal Bonds,this be the risk that the bond issuer may experience financial problem that make it difficult or impossible to pay interest and principal in full the failure to pay interest or principal be refer to as default,risk,risk,1.0
+49,Municipal Bonds,this be the risk that the bond issuer may experience financial problem that make it difficult or impossible to pay interest and principal in full the failure to pay interest or principal be refer to as default,risk,the risk,0.5
+50,Municipal Bonds,this be the risk that the bond issuer may experience financial problem that make it difficult or impossible to pay interest and principal in full the failure to pay interest or principal be refer to as default,risk,risk that,0.5
+51,Municipal Bonds,credit rating seek to estimate the relative credit risk of a bond as compare with other bond although a high rating do not reflect a prediction that the bond have no chance of defaulting,risk,risk,1.0
+52,Municipal Bonds,credit rating seek to estimate the relative credit risk of a bond as compare with other bond although a high rating do not reflect a prediction that the bond have no chance of defaulting,risk,credit risk,0.5
+53,Municipal Bonds,credit rating seek to estimate the relative credit risk of a bond as compare with other bond although a high rating do not reflect a prediction that the bond have no chance of defaulting,risk,risk of,0.5
+54,Municipal Bonds,interest rate risk,risk,risk,1.0
+55,Municipal Bonds,interest rate risk,risk,rate risk,0.5
+56,Municipal Bonds,U.S. interest rate have be low for some time,time,time,1.0
+57,Municipal Bonds,U.S. interest rate have be low for some time,time,some time,0.5
+58,Municipal Bonds,inflation risk,risk,risk,1.0
+59,Municipal Bonds,inflation risk,risk,inflation risk,0.5
+60,Municipal Bonds,inflation reduce purchase power which be a risk for investor receive a fix rate of interest,risk,risk,1.0
+61,Municipal Bonds,inflation reduce purchase power which be a risk for investor receive a fix rate of interest,risk,a risk,0.5
+62,Municipal Bonds,inflation reduce purchase power which be a risk for investor receive a fix rate of interest,risk,risk for,0.5
+63,Municipal Bonds,liquidity risk,risk,risk,1.0
+64,Municipal Bonds,liquidity risk,risk,liquidity risk,0.5
+65,Municipal Bonds,this refer to the risk that investor will not find a active market for the municipal bond potentially prevent they from buy or sell when they want and obtain a certain price for the bond,risk,risk,1.0
+66,Municipal Bonds,this refer to the risk that investor will not find a active market for the municipal bond potentially prevent they from buy or sell when they want and obtain a certain price for the bond,risk,the risk,0.5
+67,Municipal Bonds,this refer to the risk that investor will not find a active market for the municipal bond potentially prevent they from buy or sell when they want and obtain a certain price for the bond,risk,risk that,0.5
+68,Municipal Bonds,in addition to the risk what other factor should you consider when invest in municipal bond,risk,risk,1.0
+69,Municipal Bonds,in addition to the risk what other factor should you consider when invest in municipal bond,risk,the risk,0.5
+70,Municipal Bonds,in addition to the risk what other factor should you consider when invest in municipal bond,risk,risk what,0.5
+71,High-yield Corporate Bonds,a high yield corporate bond be a type of corporate bond that offer a higher rate of interest because of its higher risk of default,risk,risk,1.0
+72,High-yield Corporate Bonds,a high yield corporate bond be a type of corporate bond that offer a higher rate of interest because of its higher risk of default,risk,higher risk,0.5
+73,High-yield Corporate Bonds,a high yield corporate bond be a type of corporate bond that offer a higher rate of interest because of its higher risk of default,risk,risk of,0.5
+74,High-yield Corporate Bonds,when company with a greater estimate default risk issue bond they may be unable to obtain a investment grade bond credit rating,risk,risk,1.0
+75,High-yield Corporate Bonds,when company with a greater estimate default risk issue bond they may be unable to obtain a investment grade bond credit rating,risk,default risk,0.5
+76,High-yield Corporate Bonds,when company with a greater estimate default risk issue bond they may be unable to obtain a investment grade bond credit rating,risk,risk issue,0.5
+77,High-yield Corporate Bonds,as a result they typically issue bond with higher interest rate in order to entice investor and compensate they for this higher risk,risk,risk,1.0
+78,High-yield Corporate Bonds,as a result they typically issue bond with higher interest rate in order to entice investor and compensate they for this higher risk,risk,higher risk,0.5
+79,High-yield Corporate Bonds,what be high yield corporate bond investor bulletin interest rate risk msrb investor guide 2012 bond fund and income fund callable or redeemable bond Financial Industry Regulatory authority finra information on cusip number late payment of interest on bond Municipal security rulemaking board msrb msrb Electronic Municipal market access EMMA the Securities Industry and Financial Markets Association SIFMA,risk,risk,1.0
+80,High-yield Corporate Bonds,what be high yield corporate bond investor bulletin interest rate risk msrb investor guide 2012 bond fund and income fund callable or redeemable bond Financial Industry Regulatory authority finra information on cusip number late payment of interest on bond Municipal security rulemaking board msrb msrb Electronic Municipal market access EMMA the Securities Industry and Financial Markets Association SIFMA,risk,rate risk,0.5
+81,High-yield Corporate Bonds,what be high yield corporate bond investor bulletin interest rate risk msrb investor guide 2012 bond fund and income fund callable or redeemable bond Financial Industry Regulatory authority finra information on cusip number late payment of interest on bond Municipal security rulemaking board msrb msrb Electronic Municipal market access EMMA the Securities Industry and Financial Markets Association SIFMA,risk,risk msrb,0.5
+82,Certificates of Deposit (CDs),a certificate of deposit cd be a savings account that hold a fix amount of money for a fix period of time such as six month one year or five year and in exchange the issue bank pay interest,time,time,1.0
+83,Certificates of Deposit (CDs),a certificate of deposit cd be a savings account that hold a fix amount of money for a fix period of time such as six month one year or five year and in exchange the issue bank pay interest,time,of time,0.5
+84,Certificates of Deposit (CDs),a certificate of deposit cd be a savings account that hold a fix amount of money for a fix period of time such as six month one year or five year and in exchange the issue bank pay interest,time,time such,0.5
+85,Certificates of Deposit (CDs),as with all investment there be benefit and risk associate with cd,risk,risk,1.0
+86,Certificates of Deposit (CDs),as with all investment there be benefit and risk associate with cd,risk,and risk,0.5
+87,Certificates of Deposit (CDs),as with all investment there be benefit and risk associate with cd,risk,risk associate,0.5
+88,Certificates of Deposit (CDs),the risk with cd be the risk that inflation will grow faster than you money and lower you real return over time,expect return,return,0.5
+89,Certificates of Deposit (CDs),the risk with cd be the risk that inflation will grow faster than you money and lower you real return over time,risk,risk,1.0
+90,Certificates of Deposit (CDs),the risk with cd be the risk that inflation will grow faster than you money and lower you real return over time,risk,risk,1.0
+91,Certificates of Deposit (CDs),the risk with cd be the risk that inflation will grow faster than you money and lower you real return over time,risk,the risk,0.5
+92,Certificates of Deposit (CDs),the risk with cd be the risk that inflation will grow faster than you money and lower you real return over time,risk,risk with,0.5
+93,Certificates of Deposit (CDs),the risk with cd be the risk that inflation will grow faster than you money and lower you real return over time,risk,the risk,0.5
+94,Certificates of Deposit (CDs),the risk with cd be the risk that inflation will grow faster than you money and lower you real return over time,risk,risk that,0.5
+95,Certificates of Deposit (CDs),the risk with cd be the risk that inflation will grow faster than you money and lower you real return over time,time,time,1.0
+96,Certificates of Deposit (CDs),the risk with cd be the risk that inflation will grow faster than you money and lower you real return over time,time,over time,0.5
+97,Savings Bonds,savings bond be a popular birthday and graduation gift and also can be use toward financing education supplemental retirement income and other special event,form financing,financing,0.5
+98,Savings Bonds,in paper form these bond be only available in specific denomination,form financing,form,0.5
+99,Bonds,borrower issue bond to raise money from investor willing to lend they money for a certain amount of time,time,time,1.0
+100,Bonds,borrower issue bond to raise money from investor willing to lend they money for a certain amount of time,time,of time,0.5
+101,Bonds,in return the issuer promise to pay you a specify rate of interest during the life of the bond and to repay the principal also know as face value or par value of the bond when it mature or come due after a set period of time,expect return,return,0.5
+102,Bonds,in return the issuer promise to pay you a specify rate of interest during the life of the bond and to repay the principal also know as face value or par value of the bond when it mature or come due after a set period of time,time,time,1.0
+103,Bonds,in return the issuer promise to pay you a specify rate of interest during the life of the bond and to repay the principal also know as face value or par value of the bond when it mature or come due after a set period of time,time,of time,0.5
+104,Bonds,what be the benefit and risk of bond,risk,risk,1.0
+105,Bonds,what be the benefit and risk of bond,risk,and risk,0.5
+106,Bonds,what be the benefit and risk of bond,risk,risk of,0.5
+107,Bonds,provide operate cash flow financing debt funding capital investment in school highway hospital and other project,form financing,financing,0.5
+108,Bonds,these bond have a higher credit rating imply less credit risk than high yield corporate bond,risk,risk,1.0
+109,Bonds,these bond have a higher credit rating imply less credit risk than high yield corporate bond,risk,credit risk,0.5
+110,Bonds,these bond have a higher credit rating imply less credit risk than high yield corporate bond,risk,risk than,0.5
+111,Bonds,these bond have a lower credit rating imply higher credit risk than investment grade bond and therefore offer higher interest rate in return for the increase risk,expect return,return,0.5
+112,Bonds,these bond have a lower credit rating imply higher credit risk than investment grade bond and therefore offer higher interest rate in return for the increase risk,risk,risk,1.0
+113,Bonds,these bond have a lower credit rating imply higher credit risk than investment grade bond and therefore offer higher interest rate in return for the increase risk,risk,risk,1.0
+114,Bonds,these bond have a lower credit rating imply higher credit risk than investment grade bond and therefore offer higher interest rate in return for the increase risk,risk,credit risk,0.5
+115,Bonds,these bond have a lower credit rating imply higher credit risk than investment grade bond and therefore offer higher interest rate in return for the increase risk,risk,risk than,0.5
+116,Bonds,these bond have a lower credit rating imply higher credit risk than investment grade bond and therefore offer higher interest rate in return for the increase risk,risk,increase risk,0.5
+117,Bonds,what be the benefit and risk of bond,risk,risk,1.0
+118,Bonds,what be the benefit and risk of bond,risk,and risk,0.5
+119,Bonds,what be the benefit and risk of bond,risk,risk of,0.5
+120,Bonds,bond can provide a means of preserve capital and earning a predictable return,expect return,return,0.5
+121,Bonds,as with any investment bond have risk,risk,risk,1.0
+122,Bonds,as with any investment bond have risk,risk,have risk,0.5
+123,Bonds,these risk include credit risk,risk,risk,1.0
+124,Bonds,these risk include credit risk,risk,risk,1.0
+125,Bonds,these risk include credit risk,risk,these risk,0.5
+126,Bonds,these risk include credit risk,risk,risk include,0.5
+127,Bonds,these risk include credit risk,risk,credit risk,0.5
+128,Bonds,interest rate risk,risk,risk,1.0
+129,Bonds,interest rate risk,risk,rate risk,0.5
+130,Bonds,inflation risk,risk,risk,1.0
+131,Bonds,inflation risk,risk,inflation risk,0.5
+132,Bonds,inflation reduce purchase power which be a risk for investor receive a fix rate of interest,risk,risk,1.0
+133,Bonds,inflation reduce purchase power which be a risk for investor receive a fix rate of interest,risk,a risk,0.5
+134,Bonds,inflation reduce purchase power which be a risk for investor receive a fix rate of interest,risk,risk for,0.5
+135,Bonds,liquidity risk,risk,risk,1.0
+136,Bonds,liquidity risk,risk,liquidity risk,0.5
+137,Bonds,this refer to the risk that investor will not find a market for the bond potentially prevent they from buy or sell when they want,risk,risk,1.0
+138,Bonds,this refer to the risk that investor will not find a market for the bond potentially prevent they from buy or sell when they want,risk,the risk,0.5
+139,Bonds,this refer to the risk that investor will not find a market for the bond potentially prevent they from buy or sell when they want,risk,risk that,0.5
+140,Bonds,call risk,risk,risk,1.0
+141,Bonds,call risk,risk,call risk,0.5
+142,Bonds,what be high yield corporate bond investor bulletin interest rate risk msrb investor guide 2012 bond fund and income fund callable or redeemable bond Financial Industry Regulatory authority finra information on cusip number late payment of interest on bond Municipal security rulemaking board msrb msrb Electronic Municipal market access EMMA the Securities Industry and Financial Markets Association SIFMA,risk,risk,1.0
+143,Bonds,what be high yield corporate bond investor bulletin interest rate risk msrb investor guide 2012 bond fund and income fund callable or redeemable bond Financial Industry Regulatory authority finra information on cusip number late payment of interest on bond Municipal security rulemaking board msrb msrb Electronic Municipal market access EMMA the Securities Industry and Financial Markets Association SIFMA,risk,rate risk,0.5
+144,Bonds,what be high yield corporate bond investor bulletin interest rate risk msrb investor guide 2012 bond fund and income fund callable or redeemable bond Financial Industry Regulatory authority finra information on cusip number late payment of interest on bond Municipal security rulemaking board msrb msrb Electronic Municipal market access EMMA the Securities Industry and Financial Markets Association SIFMA,risk,risk msrb,0.5
+145,Variable Annuities,how variable annuity work key risk of you variable annuity contract the death benefit and other insurance feature variable annuity fee and expense exchange one variable annuity for another bonus credit for more information what be a variable annuity,risk,risk,1.0
+146,Variable Annuities,how variable annuity work key risk of you variable annuity contract the death benefit and other insurance feature variable annuity fee and expense exchange one variable annuity for another bonus credit for more information what be a variable annuity,risk,key risk,0.5
+147,Variable Annuities,how variable annuity work key risk of you variable annuity contract the death benefit and other insurance feature variable annuity fee and expense exchange one variable annuity for another bonus credit for more information what be a variable annuity,risk,risk of,0.5
+148,Variable Annuities,you may also transfer you money from one investment option to another within a variable annuity without pay federal tax at the time of the transfer,time,time,1.0
+149,Variable Annuities,you may also transfer you money from one investment option to another within a variable annuity without pay federal tax at the time of the transfer,time,the time,0.5
+150,Variable Annuities,you may also transfer you money from one investment option to another within a variable annuity without pay federal tax at the time of the transfer,time,time of,0.5
+151,Variable Annuities,variable annuity involve investment risk just like mutual fund do,risk,risk,1.0
+152,Variable Annuities,variable annuity involve investment risk just like mutual fund do,risk,investment risk,0.5
+153,Variable Annuities,variable annuity involve investment risk just like mutual fund do,risk,risk just,0.5
+154,Variable Annuities,over the follow year the stock fund have a 10 % return and the bond fund have a 5 % return,expect return,return,0.5
+155,Variable Annuities,over the follow year the stock fund have a 10 % return and the bond fund have a 5 % return,expect return,return,0.5
+156,Variable Annuities,you should consider a variety of factor with respect to each fund option include the fund 's investment objective and policy management fee and expense that the fund charge the risk and volatility of the fund and whether the fund contribute to the diversification of you overall investment portfolio,risk,risk,1.0
+157,Variable Annuities,you should consider a variety of factor with respect to each fund option include the fund 's investment objective and policy management fee and expense that the fund charge the risk and volatility of the fund and whether the fund contribute to the diversification of you overall investment portfolio,risk,the risk,0.5
+158,Variable Annuities,you should consider a variety of factor with respect to each fund option include the fund 's investment objective and policy management fee and expense that the fund charge the risk and volatility of the fund and whether the fund contribute to the diversification of you overall investment portfolio,risk,risk and,0.5
+159,Variable Annuities,you should consider a variety of factor with respect to each fund option include the fund 's investment objective and policy management fee and expense that the fund charge the risk and volatility of the fund and whether the fund contribute to the diversification of you overall investment portfolio,portfolio diversification,diversification,0.5
+160,Variable Annuities,you should consider a variety of factor with respect to each fund option include the fund 's investment objective and policy management fee and expense that the fund charge the risk and volatility of the fund and whether the fund contribute to the diversification of you overall investment portfolio,portfolio diversification,portfolio,0.5
+161,Variable Annuities,the amount of each periodic income payment will depend in part on the time period that you select for receive payment,time,time,1.0
+162,Variable Annuities,the amount of each periodic income payment will depend in part on the time period that you select for receive payment,time,the time,0.5
+163,Variable Annuities,the amount of each periodic income payment will depend in part on the time period that you select for receive payment,time,time period,0.5
+164,Variable Annuities,key risk of you variable annuity contract the death benefit and other optional insurance feature,risk,risk,1.0
+165,Variable Annuities,key risk of you variable annuity contract the death benefit and other optional insurance feature,risk,key risk,0.5
+166,Variable Annuities,key risk of you variable annuity contract the death benefit and other optional insurance feature,risk,risk of,0.5
+167,Variable Annuities,in addition these optional feature be complex and may carry certain risk and limitation,risk,risk,1.0
+168,Variable Annuities,in addition these optional feature be complex and may carry certain risk and limitation,risk,certain risk,0.5
+169,Variable Annuities,in addition these optional feature be complex and may carry certain risk and limitation,risk,risk and,0.5
+170,Variable Annuities,this can limit the return on you investment,expect return,return,0.5
+171,Variable Annuities,these fee and expense will reduce the value of you account and the return on you investment,expect return,return,0.5
+172,Variable Annuities,consider how long you expect to own the variable annuity and you need to access fund when you think of any tradeoff between the length of the surrender charge period and the level of ongoing fee,expect return,expect,0.5
+173,Variable Annuities,while the feature may appear similar you should consider the fee insurance feature fee as well any new surrender charge period investment restriction and benefit and risk of the new variable annuity as compare to you current variable annuity,risk,risk,1.0
+174,Variable Annuities,while the feature may appear similar you should consider the fee insurance feature fee as well any new surrender charge period investment restriction and benefit and risk of the new variable annuity as compare to you current variable annuity,risk,and risk,0.5
+175,Variable Annuities,while the feature may appear similar you should consider the fee insurance feature fee as well any new surrender charge period investment restriction and benefit and risk of the new variable annuity as compare to you current variable annuity,risk,risk of,0.5
+176,Variable Annuities,this may depend on a variety of factor such as the amount of the bonus credit and the increase fee and expense how long you hold you annuity contract and the return on the underlying investment,expect return,return,0.5
+177,Variable Annuities,let us assume that both annuity have a annual rate of return prior to expense of 10 %,expect return,return,0.5
+178,Variable Annuities,Mutual fund and etf a Guide for investor Investor Bulletin performance Claims update Investor bulletin how fee and expense affect you investment portfolio investor bulletin how to check out you Financial professional other resource that may be helpful FINRA FINRA be a independent self regulatory organization charge with regulate the security industry include seller of variable annuity,regulatory environment,regulatory,0.5
+179,Variable Annuities,Mutual fund and etf a Guide for investor Investor Bulletin performance Claims update Investor bulletin how fee and expense affect you investment portfolio investor bulletin how to check out you Financial professional other resource that may be helpful FINRA FINRA be a independent self regulatory organization charge with regulate the security industry include seller of variable annuity,portfolio diversification,portfolio,0.5
+180,Annuities,similarly you payout may come either as one lump sum payment or as a series of payment over time,time,time,1.0
+181,Annuities,similarly you payout may come either as one lump sum payment or as a series of payment over time,time,over time,0.5
+182,Annuities,what be the benefit and risk of variable annuity,risk,risk,1.0
+183,Annuities,what be the benefit and risk of variable annuity,risk,and risk,0.5
+184,Annuities,what be the benefit and risk of variable annuity,risk,risk of,0.5
+185,Annuities,annuity provide three thing periodic payment for a specific amount of time,time,time,1.0
+186,Annuities,annuity provide three thing periodic payment for a specific amount of time,time,of time,0.5
+187,Annuities,please check with you state insurance commission about the risk and benefit of fix annuity and to confirm that you insurance broker be register to sell insurance in you state,risk,risk,1.0
+188,Annuities,please check with you state insurance commission about the risk and benefit of fix annuity and to confirm that you insurance broker be register to sell insurance in you state,risk,the risk,0.5
+189,Annuities,please check with you state insurance commission about the risk and benefit of fix annuity and to confirm that you insurance broker be register to sell insurance in you state,risk,risk and,0.5
+190,Annuities,you payout will vary depend on how much you put in the rate of return on you investment and expense,expect return,return,0.5
+191,Annuities,the insurance company credit you with a return that be base on a stock market index such as the Standard &amp poor 's 500 index,expect return,return,0.5
+192,Annuities,what be the benefit and risk of variable annuity,risk,risk,1.0
+193,Annuities,what be the benefit and risk of variable annuity,risk,and risk,0.5
+194,Annuities,what be the benefit and risk of variable annuity,risk,risk of,0.5
+195,Annuities,all investment carry a level of risk,risk,risk,1.0
+196,Annuities,all investment carry a level of risk,risk,of risk,0.5
+197,Annuities,variable annuity also involve investment risk just as mutual fund do,risk,risk,1.0
+198,Annuities,variable annuity also involve investment risk just as mutual fund do,risk,investment risk,0.5
+199,Annuities,variable annuity also involve investment risk just as mutual fund do,risk,risk just,0.5
+200,Annuities,surrender charge will reduce the value of and the return on you investment,expect return,return,0.5
+201,Annuities,besides surrender charge there be a number of other charge include mortality and expense risk charge,risk,risk,1.0
+202,Annuities,besides surrender charge there be a number of other charge include mortality and expense risk charge,risk,expense risk,0.5
+203,Annuities,besides surrender charge there be a number of other charge include mortality and expense risk charge,risk,risk charge,0.5
+204,Annuities,this charge pay the issuer for the insurance risk it assume under the annuity contract,risk,risk,1.0
+205,Annuities,this charge pay the issuer for the insurance risk it assume under the annuity contract,risk,insurance risk,0.5
+206,Annuities,this charge pay the issuer for the insurance risk it assume under the annuity contract,risk,risk it,0.5
+207,Variable Life Insurance,variable life insurance involve investment risk just like mutual fund do,risk,risk,1.0
+208,Variable Life Insurance,variable life insurance involve investment risk just like mutual fund do,risk,investment risk,0.5
+209,Variable Life Insurance,variable life insurance involve investment risk just like mutual fund do,risk,risk just,0.5
+210,Variable Life Insurance,the value of you investment and any return will depend in part on the performance of the investment option you choose,expect return,return,0.5
+211,Variable Life Insurance,in addition the fee associate with certain policy may increase over time,time,time,1.0
+212,Variable Life Insurance,in addition the fee associate with certain policy may increase over time,time,over time,0.5
+213,Variable Life Insurance,variable life insurance be a form of life insurance,form financing,form,0.5
+214,Variable Life Insurance,over the follow year the stock fund have a 10 % return and the bond fund have a 5 % return,expect return,return,0.5
+215,Variable Life Insurance,over the follow year the stock fund have a 10 % return and the bond fund have a 5 % return,expect return,return,0.5
+216,Variable Life Insurance,this be because you net amount of risk determine some policy fee and expense,risk,risk,1.0
+217,Variable Life Insurance,this be because you net amount of risk determine some policy fee and expense,risk,of risk,0.5
+218,Variable Life Insurance,this be because you net amount of risk determine some policy fee and expense,risk,risk determine,0.5
+219,Variable Life Insurance,you net amount of risk be the difference between you policy 's face amount and you policy 's cash value so it go down if there be more money in you account,risk,risk,1.0
+220,Variable Life Insurance,you net amount of risk be the difference between you policy 's face amount and you policy 's cash value so it go down if there be more money in you account,risk,of risk,0.5
+221,Variable Life Insurance,you net amount of risk be the difference between you policy 's face amount and you policy 's cash value so it go down if there be more money in you account,risk,risk be,0.5
+222,Variable Life Insurance,key risk of you variable life insurance policy,risk,risk,1.0
+223,Variable Life Insurance,key risk of you variable life insurance policy,risk,key risk,0.5
+224,Variable Life Insurance,key risk of you variable life insurance policy,risk,risk of,0.5
+225,Variable Life Insurance,positive investment performance and pay additional premium can reduce the risk of lapse,risk,risk,1.0
+226,Variable Life Insurance,positive investment performance and pay additional premium can reduce the risk of lapse,risk,the risk,0.5
+227,Variable Life Insurance,positive investment performance and pay additional premium can reduce the risk of lapse,risk,risk of,0.5
+228,Variable Life Insurance,risk of loss,risk,risk,1.0
+229,Variable Life Insurance,risk of loss,risk,risk of,0.5
+230,Variable Life Insurance,risk associate with investment option,risk,risk,1.0
+231,Variable Life Insurance,risk associate with investment option,risk,risk associate,0.5
+232,Variable Life Insurance,the value of you investment and any return will depend on the performance of the investment option you choose,expect return,return,0.5
+233,Variable Life Insurance,each underlying fund may have its own unique risk,risk,risk,1.0
+234,Variable Life Insurance,each underlying fund may have its own unique risk,risk,unique risk,0.5
+235,Variable Life Insurance,you should consider a variety of factor with respect to each fund option include the fund 's investment objective and policy management fee and other expense that the fund charge the risk and volatility of the fund and whether the fund contribute to the diversification of you overall investment portfolio,risk,risk,1.0
+236,Variable Life Insurance,you should consider a variety of factor with respect to each fund option include the fund 's investment objective and policy management fee and other expense that the fund charge the risk and volatility of the fund and whether the fund contribute to the diversification of you overall investment portfolio,risk,the risk,0.5
+237,Variable Life Insurance,you should consider a variety of factor with respect to each fund option include the fund 's investment objective and policy management fee and other expense that the fund charge the risk and volatility of the fund and whether the fund contribute to the diversification of you overall investment portfolio,risk,risk and,0.5
+238,Variable Life Insurance,you should consider a variety of factor with respect to each fund option include the fund 's investment objective and policy management fee and other expense that the fund charge the risk and volatility of the fund and whether the fund contribute to the diversification of you overall investment portfolio,portfolio diversification,diversification,0.5
+239,Variable Life Insurance,you should consider a variety of factor with respect to each fund option include the fund 's investment objective and policy management fee and other expense that the fund charge the risk and volatility of the fund and whether the fund contribute to the diversification of you overall investment portfolio,portfolio diversification,portfolio,0.5
+240,Variable Life Insurance,insurance company risk,risk,risk,1.0
+241,Variable Life Insurance,insurance company risk,risk,company risk,0.5
+242,Variable Life Insurance,in addition these optional feature be complex and may carry certain risk and limitation,risk,risk,1.0
+243,Variable Life Insurance,in addition these optional feature be complex and may carry certain risk and limitation,risk,certain risk,0.5
+244,Variable Life Insurance,in addition these optional feature be complex and may carry certain risk and limitation,risk,risk and,0.5
+245,Variable Life Insurance,mortality and expense M&amp e risk fee,risk,risk,1.0
+246,Variable Life Insurance,mortality and expense M&amp e risk fee,risk,e risk,0.5
+247,Variable Life Insurance,mortality and expense M&amp e risk fee,risk,risk fee,0.5
+248,Variable Life Insurance,they help cover the risk the insurance company assume with respect to the policy,risk,risk,1.0
+249,Variable Life Insurance,they help cover the risk the insurance company assume with respect to the policy,risk,the risk,0.5
+250,Variable Life Insurance,they help cover the risk the insurance company assume with respect to the policy,risk,risk the,0.5
+251,Variable Life Insurance,risk might include that the policy owner may die sooner than expect that administrative and sale cost be higher than expect and that policy owner behavior do not match the insurance company 's expectation,expect return,expect,0.5
+252,Variable Life Insurance,risk might include that the policy owner may die sooner than expect that administrative and sale cost be higher than expect and that policy owner behavior do not match the insurance company 's expectation,expect return,expect,0.5
+253,Variable Life Insurance,risk might include that the policy owner may die sooner than expect that administrative and sale cost be higher than expect and that policy owner behavior do not match the insurance company 's expectation,risk,risk,1.0
+254,Variable Life Insurance,risk might include that the policy owner may die sooner than expect that administrative and sale cost be higher than expect and that policy owner behavior do not match the insurance company 's expectation,risk,risk might,0.5
+255,Variable Life Insurance,these charge may be more significant if you present a greater risk to the insurance company that be if you be more likely to die sooner,risk,risk,1.0
+256,Variable Life Insurance,these charge may be more significant if you present a greater risk to the insurance company that be if you be more likely to die sooner,risk,greater risk,0.5
+257,Variable Life Insurance,these charge may be more significant if you present a greater risk to the insurance company that be if you be more likely to die sooner,risk,risk to,0.5
+258,Variable Life Insurance,additional information mutual fund and etf a guide for investor investor bulletin performance claim update investor bulletin how fee and expense affect you investment portfolio investor bulletin how to check out you Financial professional how to contact the SEC with question or complaint office of investor education and advocacy U.S. security and Exchange commission email help@sec.gov,portfolio diversification,portfolio,0.5
+259,International Investing,two of the chief reason why people invest in international investment and investment with international exposure be diversification,portfolio diversification,diversification,0.5
+260,International Investing,international investing may help U.S. investor to spread they investment risk among foreign company and market in addition to U.S. company and market,risk,risk,1.0
+261,International Investing,international investing may help U.S. investor to spread they investment risk among foreign company and market in addition to U.S. company and market,risk,investment risk,0.5
+262,International Investing,international investing may help U.S. investor to spread they investment risk among foreign company and market in addition to U.S. company and market,risk,risk among,0.5
+263,International Investing,but there be special risk of international investing include,risk,risk,1.0
+264,International Investing,but there be special risk of international investing include,risk,special risk,0.5
+265,International Investing,but there be special risk of international investing include,risk,risk of,0.5
+266,International Investing,if investor be work with a broker or investment adviser they should make sure the investment professional be register with the SEC or for some investment adviser with the appropriate state regulatory entity,regulatory environment,regulatory,0.5
+267,International Investing,when the exchange rate between the U.S. dollar and the currency of a international investment change it can increase or reduce you investment return,expect return,return,0.5
+268,International Investing,mutual fund may provide more diversification than most investor could achieve on they own and they be subject to U.S. regulation protect investor,portfolio diversification,diversification,0.5
+269,Alternative Mutual Funds,investor consider alt fund should be aware of they unique characteristic and risk,risk,risk,1.0
+270,Alternative Mutual Funds,investor consider alt fund should be aware of they unique characteristic and risk,risk,and risk,0.5
+271,Alternative Mutual Funds,many alt fund try to minimize swing in the value of they investment and reduce risk by spread they investment among different asset type and or use complex trading strategy,risk,risk,1.0
+272,Alternative Mutual Funds,many alt fund try to minimize swing in the value of they investment and reduce risk by spread they investment among different asset type and or use complex trading strategy,risk,reduce risk,0.5
+273,Alternative Mutual Funds,many alt fund try to minimize swing in the value of they investment and reduce risk by spread they investment among different asset type and or use complex trading strategy,risk,risk by,0.5
+274,Alternative Mutual Funds,some alt fund seek to generate above market return relative to other mutual fund that have a similar benchmark,expect return,return,0.5
+275,Alternative Mutual Funds,these investment can sometimes offer greater diversification or different return than more traditional investment such as stock bond and cash,expect return,return,0.5
+276,Alternative Mutual Funds,these investment can sometimes offer greater diversification or different return than more traditional investment such as stock bond and cash,portfolio diversification,diversification,0.5
+277,Alternative Mutual Funds,for example alt fund may sell stock short use derivative or follow absolute return or market neutral strategy that seek positive return even when the stock market fall,expect return,return,0.5
+278,Alternative Mutual Funds,for example alt fund may sell stock short use derivative or follow absolute return or market neutral strategy that seek positive return even when the stock market fall,expect return,return,0.5
+279,Alternative Mutual Funds,however these strategy may result in higher cost and additional risk than traditionally manage fund,risk,risk,1.0
+280,Alternative Mutual Funds,however these strategy may result in higher cost and additional risk than traditionally manage fund,risk,additional risk,0.5
+281,Alternative Mutual Funds,however these strategy may result in higher cost and additional risk than traditionally manage fund,risk,risk than,0.5
+282,Alternative Mutual Funds,these protection include limit on illiquid investment restriction on borrowing and debt and the requirement to allow investor to sell they share at any time,time,time,1.0
+283,Alternative Mutual Funds,these protection include limit on illiquid investment restriction on borrowing and debt and the requirement to allow investor to sell they share at any time,time,any time,0.5
+284,Alternative Mutual Funds,hedge fund be not require to follow these regulation and therefore may pursue non-traditional strategy and investment without the same regulatory safeguard,regulatory environment,regulatory,0.5
+285,Alternative Mutual Funds,this be design to limit investor in hedge fund to those who be financially sophisticated and generally can bear the risk of invest in fund that be not subject to the regulatory safeguard,regulatory environment,regulatory,0.5
+286,Alternative Mutual Funds,this be design to limit investor in hedge fund to those who be financially sophisticated and generally can bear the risk of invest in fund that be not subject to the regulatory safeguard,risk,risk,1.0
+287,Alternative Mutual Funds,this be design to limit investor in hedge fund to those who be financially sophisticated and generally can bear the risk of invest in fund that be not subject to the regulatory safeguard,risk,the risk,0.5
+288,Alternative Mutual Funds,this be design to limit investor in hedge fund to those who be financially sophisticated and generally can bear the risk of invest in fund that be not subject to the regulatory safeguard,risk,risk of,0.5
+289,Alternative Mutual Funds,alt fund have unique characteristic and risk,risk,risk,1.0
+290,Alternative Mutual Funds,alt fund have unique characteristic and risk,risk,and risk,0.5
+291,Alternative Mutual Funds,it be important that you understand these characteristic and risk to make sure the investment be a good fit for you,risk,risk,1.0
+292,Alternative Mutual Funds,it be important that you understand these characteristic and risk to make sure the investment be a good fit for you,risk,and risk,0.5
+293,Alternative Mutual Funds,it be important that you understand these characteristic and risk to make sure the investment be a good fit for you,risk,risk to,0.5
+294,Alternative Mutual Funds,other might be design to provide diversification through exposure to commodity foreign currency and other alternative investment,portfolio diversification,diversification,0.5
+295,Alternative Mutual Funds,Strategy risk factor,risk,risk,1.0
+296,Alternative Mutual Funds,Strategy risk factor,risk,Strategy risk,0.5
+297,Alternative Mutual Funds,Strategy risk factor,risk,risk factor,0.5
+298,Alternative Mutual Funds,in addition to the usual market and investment risk associate with traditional mutual fund alt fund may face additional risk to the extent they use relatively complex investment and trading strategy,risk,risk,1.0
+299,Alternative Mutual Funds,in addition to the usual market and investment risk associate with traditional mutual fund alt fund may face additional risk to the extent they use relatively complex investment and trading strategy,risk,risk,1.0
+300,Alternative Mutual Funds,in addition to the usual market and investment risk associate with traditional mutual fund alt fund may face additional risk to the extent they use relatively complex investment and trading strategy,risk,investment risk,0.5
+301,Alternative Mutual Funds,in addition to the usual market and investment risk associate with traditional mutual fund alt fund may face additional risk to the extent they use relatively complex investment and trading strategy,risk,risk associate,0.5
+302,Alternative Mutual Funds,in addition to the usual market and investment risk associate with traditional mutual fund alt fund may face additional risk to the extent they use relatively complex investment and trading strategy,risk,additional risk,0.5
+303,Alternative Mutual Funds,in addition to the usual market and investment risk associate with traditional mutual fund alt fund may face additional risk to the extent they use relatively complex investment and trading strategy,risk,risk to,0.5
+304,Alternative Mutual Funds,depend on the strategy be use these potential risk can include use of derivative and leverage future contract short sell and swap,risk,risk,1.0
+305,Alternative Mutual Funds,depend on the strategy be use these potential risk can include use of derivative and leverage future contract short sell and swap,risk,potential risk,0.5
+306,Alternative Mutual Funds,depend on the strategy be use these potential risk can include use of derivative and leverage future contract short sell and swap,risk,risk can,0.5
+307,Alternative Mutual Funds,how to read a mutual fund prospectus part 1 of 3 investment objective strategy and risk part 2 of 3 fee table and performance and part 3 of 3 management shareholder information and statement of additional information,risk,risk,1.0
+308,Alternative Mutual Funds,how to read a mutual fund prospectus part 1 of 3 investment objective strategy and risk part 2 of 3 fee table and performance and part 3 of 3 management shareholder information and statement of additional information,risk,and risk,0.5
+309,Alternative Mutual Funds,how to read a mutual fund prospectus part 1 of 3 investment objective strategy and risk part 2 of 3 fee table and performance and part 3 of 3 management shareholder information and statement of additional information,risk,risk part,0.5
+310,Leveraged Loan Funds,investor who own or be consider buy a fund that invest in leverage loan should understand the fund 's unique credit and liquidity risk,risk,risk,1.0
+311,Leveraged Loan Funds,investor who own or be consider buy a fund that invest in leverage loan should understand the fund 's unique credit and liquidity risk,risk,liquidity risk,0.5
+312,Leveraged Loan Funds,lender consider leverage loan to have a above average risk that the borrower will be unable to pay back the loan also know as the risk of default,risk,risk,1.0
+313,Leveraged Loan Funds,lender consider leverage loan to have a above average risk that the borrower will be unable to pay back the loan also know as the risk of default,risk,risk,1.0
+314,Leveraged Loan Funds,lender consider leverage loan to have a above average risk that the borrower will be unable to pay back the loan also know as the risk of default,risk,average risk,0.5
+315,Leveraged Loan Funds,lender consider leverage loan to have a above average risk that the borrower will be unable to pay back the loan also know as the risk of default,risk,risk that,0.5
+316,Leveraged Loan Funds,lender consider leverage loan to have a above average risk that the borrower will be unable to pay back the loan also know as the risk of default,risk,the risk,0.5
+317,Leveraged Loan Funds,lender consider leverage loan to have a above average risk that the borrower will be unable to pay back the loan also know as the risk of default,risk,risk of,0.5
+318,Leveraged Loan Funds,these loan generally pay higher interest rate to lender because of the higher level of risk,risk,risk,1.0
+319,Leveraged Loan Funds,these loan generally pay higher interest rate to lender because of the higher level of risk,risk,of risk,0.5
+320,Leveraged Loan Funds,some fund may make a small investment in leverage loan as part of a diverse portfolio while other fund may invest heavily in these loan,portfolio diversification,portfolio,0.5
+321,Leveraged Loan Funds,fund portfolio manager may be interested in purchase these loan because they higher interest rate could mean a higher return for investor in the fund,expect return,return,0.5
+322,Leveraged Loan Funds,fund portfolio manager may be interested in purchase these loan because they higher interest rate could mean a higher return for investor in the fund,portfolio diversification,portfolio,0.5
+323,Leveraged Loan Funds,what be some risk of invest in fund that invest in leverage loan,risk,risk,1.0
+324,Leveraged Loan Funds,what be some risk of invest in fund that invest in leverage loan,risk,some risk,0.5
+325,Leveraged Loan Funds,what be some risk of invest in fund that invest in leverage loan,risk,risk of,0.5
+326,Leveraged Loan Funds,like every investment leverage loan involve a trade off between reward and risk,risk,risk,1.0
+327,Leveraged Loan Funds,like every investment leverage loan involve a trade off between reward and risk,risk,and risk,0.5
+328,Leveraged Loan Funds,risk include,risk,risk,1.0
+329,Leveraged Loan Funds,risk include,risk,risk include,0.5
+330,Leveraged Loan Funds,this risk could be heighten if interest rate rise or the economy decline,risk,risk,1.0
+331,Leveraged Loan Funds,this risk could be heighten if interest rate rise or the economy decline,risk,this risk,0.5
+332,Leveraged Loan Funds,this risk could be heighten if interest rate rise or the economy decline,risk,risk could,0.5
+333,Leveraged Loan Funds,in addition leverage loan typically have a long settlement period mean it could take the fund a long time to get its money after sell its investment,time,time,1.0
+334,Leveraged Loan Funds,in addition leverage loan typically have a long settlement period mean it could take the fund a long time to get its money after sell its investment,time,long time,0.5
+335,Leveraged Loan Funds,in addition leverage loan typically have a long settlement period mean it could take the fund a long time to get its money after sell its investment,time,time to,0.5
+336,Leveraged Loan Funds,LIBOR be expect to be discontinue after 2021,expect return,expect,0.5
+337,Leveraged Loan Funds,what specific risk and benefit be associate with this fund,risk,risk,1.0
+338,Leveraged Loan Funds,what specific risk and benefit be associate with this fund,risk,specific risk,0.5
+339,Leveraged Loan Funds,what specific risk and benefit be associate with this fund,risk,risk and,0.5
+340,Leveraged Loan Funds,additional information assess you risk tolerance asset allocation mutual fund and etf a guide for investor,risk,risk,1.0
+341,Leveraged Loan Funds,additional information assess you risk tolerance asset allocation mutual fund and etf a guide for investor,risk,you risk,0.5
+342,Leveraged Loan Funds,additional information assess you risk tolerance asset allocation mutual fund and etf a guide for investor,risk,risk tolerance,0.5
+343,Exchange-Traded Funds (ETFs),like mutual fund etf offer investor a way to pool they money in a fund that make investment in stock bond or other asset and in return to receive a interest in that investment pool,expect return,return,0.5
+344,Exchange-Traded Funds (ETFs),instead they seek to achieve a state investment objective by invest in a portfolio of stock bond and other asset,portfolio diversification,portfolio,0.5
+345,Exchange-Traded Funds (ETFs),unlike with a index base ETF a adviser of a actively manage etf may actively buy or sell component in the portfolio on a daily basis without regard to conformity with a index,portfolio diversification,portfolio,0.5
+346,Exchange-Traded Funds (ETFs),before invest in a etf you should read both its summary prospectus and its full prospectus which provide detailed information on the etf 's investment objective principal investment strategy risk cost and historical performance if any,risk,risk,1.0
+347,Exchange-Traded Funds (ETFs),before invest in a etf you should read both its summary prospectus and its full prospectus which provide detailed information on the etf 's investment objective principal investment strategy risk cost and historical performance if any,risk,strategy risk,0.5
+348,Exchange-Traded Funds (ETFs),before invest in a etf you should read both its summary prospectus and its full prospectus which provide detailed information on the etf 's investment objective principal investment strategy risk cost and historical performance if any,risk,risk cost,0.5
+349,Exchange-Traded Funds (ETFs),if you do be sure to work with someone who understand you investment objective and tolerance for risk,risk,risk,1.0
+350,Exchange-Traded Funds (ETFs),if you do be sure to work with someone who understand you investment objective and tolerance for risk,risk,for risk,0.5
+351,Index Funds,a index fund be a type of mutual fund or exchange trade fund that seek to track the return of a market index,expect return,return,0.5
+352,Index Funds,the total value be equal to the share price time the number of share outstanding,time,time,1.0
+353,Index Funds,the total value be equal to the share price time the number of share outstanding,time,price time,0.5
+354,Index Funds,the total value be equal to the share price time the number of share outstanding,time,time the,0.5
+355,Index Funds,this mean they aim to maximize return over the long run by not buy and sell security very often,expect return,return,0.5
+356,Index Funds,fee and expense reduce the value of you investment return,expect return,return,0.5
+357,Index Funds,if the holding of two fund have identical performance the fund with the lower cost generally will generate higher return for you,expect return,return,0.5
+358,Index Funds,for more information see we update investor bulletin how fee and expense affect you investment portfolio,portfolio diversification,portfolio,0.5
+359,Index Funds,what be some risk of index fund,risk,risk,1.0
+360,Index Funds,what be some risk of index fund,risk,some risk,0.5
+361,Index Funds,what be some risk of index fund,risk,risk of,0.5
+362,Index Funds,like any investment index fund involve risk,risk,risk,1.0
+363,Index Funds,like any investment index fund involve risk,risk,involve risk,0.5
+364,Index Funds,a index fund will be subject to the same general risk as the security in the index it track,risk,risk,1.0
+365,Index Funds,a index fund will be subject to the same general risk as the security in the index it track,risk,general risk,0.5
+366,Index Funds,a index fund will be subject to the same general risk as the security in the index it track,risk,risk as,0.5
+367,Index Funds,the fund may also be subject to certain other risk such as lack of flexibility,risk,risk,1.0
+368,Index Funds,the fund may also be subject to certain other risk such as lack of flexibility,risk,other risk,0.5
+369,Index Funds,the fund may also be subject to certain other risk such as lack of flexibility,risk,risk such,0.5
+370,Index Funds,in addition fund disclose they portfolio holding quarterly in form N q and shareholder report,form financing,form,0.5
+371,Index Funds,in addition fund disclose they portfolio holding quarterly in form N q and shareholder report,portfolio diversification,portfolio,0.5
+372,Index Funds,what fee and expense can I expect to pay for buy own and sell this fund,expect return,expect,0.5
+373,Index Funds,what specific risk be associate with this fund,risk,risk,1.0
+374,Index Funds,what specific risk be associate with this fund,risk,specific risk,0.5
+375,Index Funds,what specific risk be associate with this fund,risk,risk be,0.5
+376,Money Market Funds,money market fund be a type of mutual fund develop in the 1970 as a option for investor to purchase a pool of security that generally provide higher return than interest bear bank account,expect return,return,0.5
+377,Money Market Funds,in response to the 2007 2008 financial crisis the commission adopt a series of amendment to its rule on money market fund in 2010 that be design to make money market fund more resilient by reduce the interest rate credit and liquidity risk of they portfolios,risk,risk,1.0
+378,Money Market Funds,in response to the 2007 2008 financial crisis the commission adopt a series of amendment to its rule on money market fund in 2010 that be design to make money market fund more resilient by reduce the interest rate credit and liquidity risk of they portfolios,risk,liquidity risk,0.5
+379,Money Market Funds,in response to the 2007 2008 financial crisis the commission adopt a series of amendment to its rule on money market fund in 2010 that be design to make money market fund more resilient by reduce the interest rate credit and liquidity risk of they portfolios,risk,risk of,0.5
+380,Money Market Funds,although these reform improve money market fund resiliency the commission say at the time that it would continue to consider whether further more fundamental change to money market fund regulation might be warrant,time,time,1.0
+381,Money Market Funds,although these reform improve money market fund resiliency the commission say at the time that it would continue to consider whether further more fundamental change to money market fund regulation might be warrant,time,the time,0.5
+382,Money Market Funds,although these reform improve money market fund resiliency the commission say at the time that it would continue to consider whether further more fundamental change to money market fund regulation might be warrant,time,time that,0.5
+383,Money Market Funds,the 2014 rule also include additional diversification and disclosure measure,portfolio diversification,diversification,0.5
+384,Money Market Funds,on the money market fund spotlight page you can find link to material relate to SEC regulatory initiative concern money market fund analysis research and other resource from the SEC,regulatory environment,regulatory,0.5
+385,Mutual Funds,the combine holding of the mutual fund be know as its portfolio,portfolio diversification,portfolio,0.5
+386,Mutual Funds,what be the benefit and risk of mutual fund,risk,risk,1.0
+387,Mutual Funds,what be the benefit and risk of mutual fund,risk,and risk,0.5
+388,Mutual Funds,what be the benefit and risk of mutual fund,risk,risk of,0.5
+389,Mutual Funds,diversification or do not put all you egg in one basket,portfolio diversification,diversification,0.5
+390,Mutual Funds,this help to lower you risk if one company fail,risk,risk,1.0
+391,Mutual Funds,this help to lower you risk if one company fail,risk,you risk,0.5
+392,Mutual Funds,this help to lower you risk if one company fail,risk,risk if,0.5
+393,Mutual Funds,mutual fund investor can easily redeem they share at any time for the current net asset value nav plus any redemption fee,time,time,1.0
+394,Mutual Funds,mutual fund investor can easily redeem they share at any time for the current net asset value nav plus any redemption fee,time,any time,0.5
+395,Mutual Funds,mutual fund investor can easily redeem they share at any time for the current net asset value nav plus any redemption fee,time,time for,0.5
+396,Mutual Funds,each type have different feature risk and reward,risk,risk,1.0
+397,Mutual Funds,each type have different feature risk and reward,risk,feature risk,0.5
+398,Mutual Funds,each type have different feature risk and reward,risk,risk and,0.5
+399,Mutual Funds,money market fund have relatively low risk,risk,risk,1.0
+400,Mutual Funds,money market fund have relatively low risk,risk,low risk,0.5
+401,Mutual Funds,bond fund have higher risk than money market fund because they typically aim to produce higher return,expect return,return,0.5
+402,Mutual Funds,bond fund have higher risk than money market fund because they typically aim to produce higher return,risk,risk,1.0
+403,Mutual Funds,bond fund have higher risk than money market fund because they typically aim to produce higher return,risk,higher risk,0.5
+404,Mutual Funds,bond fund have higher risk than money market fund because they typically aim to produce higher return,risk,risk than,0.5
+405,Mutual Funds,because there be many different type of bond the risk and reward of bond fund can vary dramatically,risk,risk,1.0
+406,Mutual Funds,because there be many different type of bond the risk and reward of bond fund can vary dramatically,risk,the risk,0.5
+407,Mutual Funds,because there be many different type of bond the risk and reward of bond fund can vary dramatically,risk,risk and,0.5
+408,Mutual Funds,over time the mix gradually shift accord to the fund 's strategy,time,time,1.0
+409,Mutual Funds,over time the mix gradually shift accord to the fund 's strategy,time,over time,0.5
+410,Mutual Funds,over time the mix gradually shift accord to the fund 's strategy,time,time the,0.5
+411,Mutual Funds,what be the benefit and risk of mutual fund,risk,risk,1.0
+412,Mutual Funds,what be the benefit and risk of mutual fund,risk,and risk,0.5
+413,Mutual Funds,what be the benefit and risk of mutual fund,risk,risk of,0.5
+414,Mutual Funds,mutual fund offer professional investment management and potential diversification,portfolio diversification,diversification,0.5
+415,Mutual Funds,if the market value of a fund 's portfolio increase after deduct expense then the value of the fund and its share increase,portfolio diversification,portfolio,0.5
+416,Mutual Funds,all fund carry some level of risk,risk,risk,1.0
+417,Mutual Funds,all fund carry some level of risk,risk,of risk,0.5
+418,Mutual Funds,a fund 's past performance be not as important as you might think because past performance do not predict future return,expect return,return,0.5
+419,Mutual Funds,but past performance can tell you how volatile or stable a fund have be over a period of time,time,time,1.0
+420,Mutual Funds,but past performance can tell you how volatile or stable a fund have be over a period of time,time,of time,0.5
+421,Mutual Funds,the more volatile the fund the higher the investment risk,risk,risk,1.0
+422,Mutual Funds,the more volatile the fund the higher the investment risk,risk,investment risk,0.5
+423,Mutual Funds,the price that investor pay for the mutual fund be the fund 's per share net asset value plus any fee charge at the time of purchase such as sale load,time,time,1.0
+424,Mutual Funds,the price that investor pay for the mutual fund be the fund 's per share net asset value plus any fee charge at the time of purchase such as sale load,time,the time,0.5
+425,Mutual Funds,the price that investor pay for the mutual fund be the fund 's per share net asset value plus any fee charge at the time of purchase such as sale load,time,time of,0.5
+426,Mutual Funds,mutual fund share be redeemable mean investor can sell the share back to the fund at any time,time,time,1.0
+427,Mutual Funds,mutual fund share be redeemable mean investor can sell the share back to the fund at any time,time,any time,0.5
+428,Mutual Funds,the prospectus contain information about the mutual fund 's investment objective risk performance and expense,risk,risk,1.0
+429,Mutual Funds,the prospectus contain information about the mutual fund 's investment objective risk performance and expense,risk,objective risk,0.5
+430,Mutual Funds,the prospectus contain information about the mutual fund 's investment objective risk performance and expense,risk,risk performance,0.5
+431,Mutual Funds,a fund with high cost must perform better than a low cost fund to generate the same return for you,expect return,return,0.5
+432,Mutual Funds,even small difference in fee can mean large difference in return over time,expect return,return,0.5
+433,Mutual Funds,even small difference in fee can mean large difference in return over time,time,time,1.0
+434,Mutual Funds,even small difference in fee can mean large difference in return over time,time,over time,0.5
+435,Mutual Funds,"for example if you invest $ 10,000 in a fund with a 10 % annual return and annual operating expense of 1.5 % after 20 year you would have roughly $ 49,725",expect return,return,0.5
+436,Mutual Funds,it take only minute to use a mutual fund cost calculator to compute how the cost of different mutual fund add up over time and eat into you return,expect return,return,0.5
+437,Mutual Funds,it take only minute to use a mutual fund cost calculator to compute how the cost of different mutual fund add up over time and eat into you return,time,time,1.0
+438,Mutual Funds,it take only minute to use a mutual fund cost calculator to compute how the cost of different mutual fund add up over time and eat into you return,time,over time,0.5
+439,Mutual Funds,it take only minute to use a mutual fund cost calculator to compute how the cost of different mutual fund add up over time and eat into you return,time,time and,0.5
+440,Target Date Funds,over time the mix gradually shift accord to the fund 's investment strategy,time,time,1.0
+441,Target Date Funds,over time the mix gradually shift accord to the fund 's investment strategy,time,over time,0.5
+442,Target Date Funds,over time the mix gradually shift accord to the fund 's investment strategy,time,time the,0.5
+443,Target Date Funds,typically the fund shift over time from a mix with a lot of stock investment in the beginning to a mix weight more toward bond,time,time,1.0
+444,Target Date Funds,typically the fund shift over time from a mix with a lot of stock investment in the beginning to a mix weight more toward bond,time,over time,0.5
+445,Target Date Funds,typically the fund shift over time from a mix with a lot of stock investment in the beginning to a mix weight more toward bond,time,time from,0.5
+446,"Smart Beta, Quant Funds and other Non-Traditional Index Funds",take time to understand how the index be construct,time,time,1.0
+447,"Smart Beta, Quant Funds and other Non-Traditional Index Funds",take time to understand how the index be construct,time,take time,0.5
+448,"Smart Beta, Quant Funds and other Non-Traditional Index Funds",take time to understand how the index be construct,time,time to,0.5
+449,"Smart Beta, Quant Funds and other Non-Traditional Index Funds",non-traditional index fund have unique characteristic and risk,risk,risk,1.0
+450,"Smart Beta, Quant Funds and other Non-Traditional Index Funds",non-traditional index fund have unique characteristic and risk,risk,and risk,0.5
+451,"Smart Beta, Quant Funds and other Non-Traditional Index Funds",take time to make sure a fund be a good fit for you by consider such thing as correlation to market,time,time,1.0
+452,"Smart Beta, Quant Funds and other Non-Traditional Index Funds",take time to make sure a fund be a good fit for you by consider such thing as correlation to market,time,take time,0.5
+453,"Smart Beta, Quant Funds and other Non-Traditional Index Funds",take time to make sure a fund be a good fit for you by consider such thing as correlation to market,time,time to,0.5
+454,"Smart Beta, Quant Funds and other Non-Traditional Index Funds",depend on they characteristic the other fund may help smooth out volatility and decrease risk,risk,risk,1.0
+455,"Smart Beta, Quant Funds and other Non-Traditional Index Funds",depend on they characteristic the other fund may help smooth out volatility and decrease risk,risk,decrease risk,0.5
+456,"Smart Beta, Quant Funds and other Non-Traditional Index Funds",return,expect return,return,0.5
+457,"Smart Beta, Quant Funds and other Non-Traditional Index Funds",diversification,portfolio diversification,diversification,0.5
+458,"Smart Beta, Quant Funds and other Non-Traditional Index Funds",these fund can be use to help create a diversify portfolio,portfolio diversification,portfolio,0.5
+459,"Smart Beta, Quant Funds and other Non-Traditional Index Funds",but to ensure a fund add diversity to you portfolio you should understand how the index be construct,portfolio diversification,portfolio,0.5
+460,"Smart Beta, Quant Funds and other Non-Traditional Index Funds",or index could give more weight to certain security than you might expect,expect return,expect,0.5
+461,"Smart Beta, Quant Funds and other Non-Traditional Index Funds",these product may be difficult to understand because they method for attempt to achieve return may not be straightforward,expect return,return,0.5
+462,"Smart Beta, Quant Funds and other Non-Traditional Index Funds",fee and expense reduce the value of you investment return,expect return,return,0.5
+463,"Smart Beta, Quant Funds and other Non-Traditional Index Funds",if the holding of two fund have identical performance the fund with the lower cost generally will generate higher return for you,expect return,return,0.5
+464,"Smart Beta, Quant Funds and other Non-Traditional Index Funds",for more information see we update investor bulletin how fee and expense affect you investment portfolio,portfolio diversification,portfolio,0.5
+465,"Smart Beta, Quant Funds and other Non-Traditional Index Funds",in addition fund disclose they portfolio holding quarterly in form N q and shareholder report,form financing,form,0.5
+466,"Smart Beta, Quant Funds and other Non-Traditional Index Funds",in addition fund disclose they portfolio holding quarterly in form N q and shareholder report,portfolio diversification,portfolio,0.5
+467,"Smart Beta, Quant Funds and other Non-Traditional Index Funds",what fee and expense can I expect to pay for buy own and sell this fund,expect return,expect,0.5
+468,"Smart Beta, Quant Funds and other Non-Traditional Index Funds",what specific risk be associate with this fund,risk,risk,1.0
+469,"Smart Beta, Quant Funds and other Non-Traditional Index Funds",what specific risk be associate with this fund,risk,specific risk,0.5
+470,"Smart Beta, Quant Funds and other Non-Traditional Index Funds",what specific risk be associate with this fund,risk,risk be,0.5
+471,Real Estate Investment Trusts (REITs),instead a REIT busy and develop property primarily to operate they as part of its own investment portfolio,portfolio diversification,portfolio,0.5
+472,Real Estate Investment Trusts (REITs),before invest in a REIT you should understand whether or not it be publicly trade and how this could affect the benefit and risk to you,risk,risk,1.0
+473,Real Estate Investment Trusts (REITs),before invest in a REIT you should understand whether or not it be publicly trade and how this could affect the benefit and risk to you,risk,and risk,0.5
+474,Real Estate Investment Trusts (REITs),before invest in a REIT you should understand whether or not it be publicly trade and how this could affect the benefit and risk to you,risk,risk to,0.5
+475,Real Estate Investment Trusts (REITs),what be the benefit and risk of reit,risk,risk,1.0
+476,Real Estate Investment Trusts (REITs),what be the benefit and risk of reit,risk,and risk,0.5
+477,Real Estate Investment Trusts (REITs),what be the benefit and risk of reit,risk,risk of,0.5
+478,Real Estate Investment Trusts (REITs),reit offer a way to include real estate in one 's investment portfolio,portfolio diversification,portfolio,0.5
+479,Real Estate Investment Trusts (REITs),but there be some risk especially with non-exchange trade reit,risk,risk,1.0
+480,Real Estate Investment Trusts (REITs),but there be some risk especially with non-exchange trade reit,risk,some risk,0.5
+481,Real Estate Investment Trusts (REITs),but there be some risk especially with non-exchange trade reit,risk,risk especially,0.5
+482,Real Estate Investment Trusts (REITs),because they do not trade on a stock exchange non -trade reit involve special risk,risk,risk,1.0
+483,Real Estate Investment Trusts (REITs),because they do not trade on a stock exchange non -trade reit involve special risk,risk,special risk,0.5
+484,Real Estate Investment Trusts (REITs),as a result for a significant time period you may be unable to assess the value of you non -trade reit investment and its volatility,time,time,1.0
+485,Real Estate Investment Trusts (REITs),as a result for a significant time period you may be unable to assess the value of you non -trade reit investment and its volatility,time,significant time,0.5
+486,Real Estate Investment Trusts (REITs),as a result for a significant time period you may be unable to assess the value of you non -trade reit investment and its volatility,time,time period,0.5
+487,Structured Notes with Principal Protection,while these product often have reassuring name that include some variant of principal protection capital guarantee absolute return minimum return or similar term they be not risk free,expect return,return,0.5
+488,Structured Notes with Principal Protection,while these product often have reassuring name that include some variant of principal protection capital guarantee absolute return minimum return or similar term they be not risk free,expect return,return,0.5
+489,Structured Notes with Principal Protection,while these product often have reassuring name that include some variant of principal protection capital guarantee absolute return minimum return or similar term they be not risk free,risk,risk,1.0
+490,Structured Notes with Principal Protection,while these product often have reassuring name that include some variant of principal protection capital guarantee absolute return minimum return or similar term they be not risk free,risk,not risk,0.5
+491,Structured Notes with Principal Protection,while these product often have reassuring name that include some variant of principal protection capital guarantee absolute return minimum return or similar term they be not risk free,risk,risk free,0.5
+492,Structured Notes with Principal Protection,how do structured Notes with principal Protection calculate the return on my investment,expect return,return,0.5
+493,Hedge Funds,hedge fund pool money from investor and invest in security or other type of investment with the goal of get positive return,expect return,return,0.5
+494,Hedge Funds,hedge fund be not regulate as heavily as mutual fund and generally have more leeway than mutual fund to pursue investment and strategy that may increase the risk of investment loss,risk,risk,1.0
+495,Hedge Funds,hedge fund be not regulate as heavily as mutual fund and generally have more leeway than mutual fund to pursue investment and strategy that may increase the risk of investment loss,risk,the risk,0.5
+496,Hedge Funds,hedge fund be not regulate as heavily as mutual fund and generally have more leeway than mutual fund to pursue investment and strategy that may increase the risk of investment loss,risk,risk of,0.5
+497,Hedge Funds,hedge fund be limit to wealthier investor who can afford the higher fee and risk of hedge fund investing and institutional investor include pension fund,risk,risk,1.0
+498,Hedge Funds,hedge fund be limit to wealthier investor who can afford the higher fee and risk of hedge fund investing and institutional investor include pension fund,risk,and risk,0.5
+499,Hedge Funds,hedge fund be limit to wealthier investor who can afford the higher fee and risk of hedge fund investing and institutional investor include pension fund,risk,risk of,0.5
+500,Hedge Funds,make sure you understand the level of risk involve in the fund 's investment strategy and that the risk be suitable to you personal investing goal time horizon and risk tolerance,risk,risk,1.0
+501,Hedge Funds,make sure you understand the level of risk involve in the fund 's investment strategy and that the risk be suitable to you personal investing goal time horizon and risk tolerance,risk,risk,1.0
+502,Hedge Funds,make sure you understand the level of risk involve in the fund 's investment strategy and that the risk be suitable to you personal investing goal time horizon and risk tolerance,risk,risk,1.0
+503,Hedge Funds,make sure you understand the level of risk involve in the fund 's investment strategy and that the risk be suitable to you personal investing goal time horizon and risk tolerance,risk,of risk,0.5
+504,Hedge Funds,make sure you understand the level of risk involve in the fund 's investment strategy and that the risk be suitable to you personal investing goal time horizon and risk tolerance,risk,risk involve,0.5
+505,Hedge Funds,make sure you understand the level of risk involve in the fund 's investment strategy and that the risk be suitable to you personal investing goal time horizon and risk tolerance,risk,the risk,0.5
+506,Hedge Funds,make sure you understand the level of risk involve in the fund 's investment strategy and that the risk be suitable to you personal investing goal time horizon and risk tolerance,risk,risk be,0.5
+507,Hedge Funds,make sure you understand the level of risk involve in the fund 's investment strategy and that the risk be suitable to you personal investing goal time horizon and risk tolerance,risk,and risk,0.5
+508,Hedge Funds,make sure you understand the level of risk involve in the fund 's investment strategy and that the risk be suitable to you personal investing goal time horizon and risk tolerance,risk,risk tolerance,0.5
+509,Hedge Funds,make sure you understand the level of risk involve in the fund 's investment strategy and that the risk be suitable to you personal investing goal time horizon and risk tolerance,time,time,1.0
+510,Hedge Funds,make sure you understand the level of risk involve in the fund 's investment strategy and that the risk be suitable to you personal investing goal time horizon and risk tolerance,time,goal time,0.5
+511,Hedge Funds,make sure you understand the level of risk involve in the fund 's investment strategy and that the risk be suitable to you personal investing goal time horizon and risk tolerance,time,time horizon,0.5
+512,Hedge Funds,as with any investment the higher the potential return the higher the risk you must assume,expect return,return,0.5
+513,Hedge Funds,as with any investment the higher the potential return the higher the risk you must assume,risk,risk,1.0
+514,Hedge Funds,as with any investment the higher the potential return the higher the risk you must assume,risk,the risk,0.5
+515,Hedge Funds,as with any investment the higher the potential return the higher the risk you must assume,risk,risk you,0.5
+516,Hedge Funds,fee impact you return on investment,expect return,return,0.5
+517,Hedge Funds,a performance fee could motivate a hedge fund manager to take greater risk in the hope of generate a larger return,expect return,return,0.5
+518,Hedge Funds,a performance fee could motivate a hedge fund manager to take greater risk in the hope of generate a larger return,risk,risk,1.0
+519,Hedge Funds,a performance fee could motivate a hedge fund manager to take greater risk in the hope of generate a larger return,risk,greater risk,0.5
+520,Hedge Funds,a performance fee could motivate a hedge fund manager to take greater risk in the hope of generate a larger return,risk,risk in,0.5
+521,Hedge Funds,hedge fund typically limit opportunity to redeem or cash in you share to four time a year or less and often impose a lock up period of one year or more during which you can not cash in you share,time,time,1.0
+522,Hedge Funds,hedge fund typically limit opportunity to redeem or cash in you share to four time a year or less and often impose a lock up period of one year or more during which you can not cash in you share,time,four time,0.5
+523,Hedge Funds,hedge fund typically limit opportunity to redeem or cash in you share to four time a year or less and often impose a lock up period of one year or more during which you can not cash in you share,time,time a,0.5
+524,Hedge Funds,you can get this information by review the adviser 's form adv which be the investment adviser 's registration form,form financing,form,0.5
+525,Hedge Funds,you can get this information by review the adviser 's form adv which be the investment adviser 's registration form,form financing,form,0.5
+526,Hedge Funds,you can search for and view a firm 's form adv use the SEC 's investment adviser Public disclosure iapd website,form financing,form,0.5
+527,Hedge Funds,in addition you may wish to read FINRA 's investor alert which describe some of the risk of invest in fund of hedge fund,risk,risk,1.0
+528,Hedge Funds,in addition you may wish to read FINRA 's investor alert which describe some of the risk of invest in fund of hedge fund,risk,the risk,0.5
+529,Hedge Funds,in addition you may wish to read FINRA 's investor alert which describe some of the risk of invest in fund of hedge fund,risk,risk of,0.5
+530,Hedge Funds,additional information investor bulletin hedge fund use iapd investor bulletin form adv investment adviser brochure and brochure supplement,form financing,form,0.5
+531,Stocks,what be the benefit and risk of stock,risk,risk,1.0
+532,Stocks,what be the benefit and risk of stock,risk,and risk,0.5
+533,Stocks,what be the benefit and risk of stock,risk,risk of,0.5
+534,Stocks,what be the benefit and risk of stock,risk,risk,1.0
+535,Stocks,what be the benefit and risk of stock,risk,and risk,0.5
+536,Stocks,what be the benefit and risk of stock,risk,risk of,0.5
+537,Stocks,investor willing to stick with stock over long period of time say 15 year generally have be reward with strong positive return,expect return,return,0.5
+538,Stocks,investor willing to stick with stock over long period of time say 15 year generally have be reward with strong positive return,time,time,1.0
+539,Stocks,investor willing to stick with stock over long period of time say 15 year generally have be reward with strong positive return,time,of time,0.5
+540,Stocks,investor willing to stick with stock over long period of time say 15 year generally have be reward with strong positive return,time,time say,0.5
+541,Stocks,a stock 's price can be affect by factor inside the company such as a faulty product or by event the company have no control over such as political or market event,factor affect return,affect by factor,0.5
+542,Stocks,the risk of stock holding can be offset in part by invest in a number of different stock,risk,risk,1.0
+543,Stocks,the risk of stock holding can be offset in part by invest in a number of different stock,risk,the risk,0.5
+544,Stocks,the risk of stock holding can be offset in part by invest in a number of different stock,risk,risk of,0.5
+545,Stocks,invest in other kind of asset that be not stock such as bond be another way to offset some of the risk of own stock,risk,risk,1.0
+546,Stocks,invest in other kind of asset that be not stock such as bond be another way to offset some of the risk of own stock,risk,the risk,0.5
+547,Stocks,invest in other kind of asset that be not stock such as bond be another way to offset some of the risk of own stock,risk,risk of,0.5
+548,Stocks,direct stock plan usually will not allow you to buy or sell share at a specific market price or at a specific time,time,time,1.0
+549,Stocks,direct stock plan usually will not allow you to buy or sell share at a specific market price or at a specific time,time,specific time,0.5
+550,Stocks,instead the company will buy or sell share for the plan at set time such as daily weekly or monthly and at a average market price,time,time,1.0
+551,Stocks,instead the company will buy or sell share for the plan at set time such as daily weekly or monthly and at a average market price,time,set time,0.5
+552,Stocks,instead the company will buy or sell share for the plan at set time such as daily weekly or monthly and at a average market price,time,time such,0.5
+553,Private Equity Funds,unlike mutual fund or hedge fund however private equity firm often focus on long term investment opportunity in asset that take time to sell with a investment time horizon typically of 10 or more year,time,time,1.0
+554,Private Equity Funds,unlike mutual fund or hedge fund however private equity firm often focus on long term investment opportunity in asset that take time to sell with a investment time horizon typically of 10 or more year,time,time,1.0
+555,Private Equity Funds,unlike mutual fund or hedge fund however private equity firm often focus on long term investment opportunity in asset that take time to sell with a investment time horizon typically of 10 or more year,time,take time,0.5
+556,Private Equity Funds,unlike mutual fund or hedge fund however private equity firm often focus on long term investment opportunity in asset that take time to sell with a investment time horizon typically of 10 or more year,time,time to,0.5
+557,Private Equity Funds,unlike mutual fund or hedge fund however private equity firm often focus on long term investment opportunity in asset that take time to sell with a investment time horizon typically of 10 or more year,time,investment time,0.5
+558,Private Equity Funds,unlike mutual fund or hedge fund however private equity firm often focus on long term investment opportunity in asset that take time to sell with a investment time horizon typically of 10 or more year,time,time horizon,0.5
+559,Private Equity Funds,a typical investment strategy undertake by private equity fund be to take a control interest in a operating company or business the portfolio company engage actively in the management and direction of the company or business in order to increase its value,portfolio diversification,portfolio,0.5
+560,Private Equity Funds,illiquidity because of they long term investment horizon a investment in a private equity fund be often illiquid and it may be necessary to hold a investment in a private equity fund for several year before any return be realize,expect return,return,0.5
+561,Private Equity Funds,investor in private equity fund should be able to wait the requisite time period before realize they return,expect return,return,0.5
+562,Private Equity Funds,investor in private equity fund should be able to wait the requisite time period before realize they return,time,time,1.0
+563,Private Equity Funds,investor in private equity fund should be able to wait the requisite time period before realize they return,time,requisite time,0.5
+564,Private Equity Funds,investor in private equity fund should be able to wait the requisite time period before realize they return,time,time period,0.5
+565,Private Equity Funds,for a institutional investor a private equity investment may represent only a small portion of its diversify investment portfolio,portfolio diversification,portfolio,0.5
+566,Private Equity Funds,in addition adviser may be manage multiple fund that be jointly invest in multiple portfolio company,portfolio diversification,portfolio,0.5
+567,Private Equity Funds,the adviser have a legal obligation to act in the best interest of each of the fund it manage and must allocate expense among itself it be fund and the fund 's portfolio company in accordance with this fiduciary duty,portfolio diversification,portfolio,0.5
+568,Private Equity Funds,private equity firm may be manage multiple private equity fund as well as a number of portfolio company,portfolio diversification,portfolio,0.5
+569,Private Equity Funds,in addition the portfolio company may also pay the private equity firm for service such as manage and monitor the portfolio company,portfolio diversification,portfolio,0.5
+570,Private Equity Funds,in addition the portfolio company may also pay the private equity firm for service such as manage and monitor the portfolio company,portfolio diversification,portfolio,0.5
+571,Private Equity Funds,affiliate of the private equity firm may also play a role as service provider to the fund or the portfolio company,portfolio diversification,portfolio,0.5
+572,Private Equity Funds,through its various relationship include with affiliate and portfolio company there exist opportunity for adviser to benefit themselves at the expense of the fund they manage and they investor,portfolio diversification,portfolio,0.5
